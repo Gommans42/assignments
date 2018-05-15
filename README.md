@@ -7,4 +7,6 @@ Assignment 3: https://github.com/Gommans42/assignments/blob/master/assignment3.i
 
 Assignment 4: https://github.com/Gommans42/assignments/blob/master/assignment4.ipynb
 
-Assignment 6 (graded assignment1): https://github.com/Gommans42/assignments/blob/master/Graded_assignment1.ipynb
+Assignment 6 (graded_assignment1): https://github.com/Gommans42/assignments/blob/master/Graded_assignment1.ipynb
+
+Assignment 7 (graded_assignment2): https://github.com/Gommans42/assignments/blob/master/Graded_assignment_2.ipynb
