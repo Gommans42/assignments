@@ -10,3 +10,5 @@ Assignment 4: https://github.com/Gommans42/assignments/blob/master/assignment4.i
 Assignment 6 (graded_assignment1): https://github.com/Gommans42/assignments/blob/master/Graded_assignment1.ipynb
 
 Assignment 7 (graded_assignment2): https://github.com/Gommans42/assignments/blob/master/Graded_assignment_2.ipynb
+
+Python exam :https://github.com/Gommans42/assignments/blob/master/exam_june_7_2018.ipynb
